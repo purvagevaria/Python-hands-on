@@ -11,5 +11,5 @@
 | 9           | Edited the README file                  | `git commit -m 'Final redme commit` , `git push origin develop` |
 
 
-Git log check - git log 
-Git status check - git status - To check untracked files
+Git log check - `git log`
+Git status check - `git status` - To check untracked files
