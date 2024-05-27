@@ -9,4 +9,4 @@
  |
 | 7           | Changed the main file & pushed the code    | git commit -m 'Editted code' |
 | 8           | Pushed the main file                    | git push origin develop |
-| 9           | Edited the README file                  | (commands for editing README file) |
+| 9           | Edited the README file                  | git commit -m 'Final redme commit' , git push origin develop |
